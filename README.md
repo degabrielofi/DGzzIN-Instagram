@@ -8,7 +8,7 @@
 
 # :clipboard: Sobre o projeto
 
-O **Instagram Follow Bot** é um script automatizado para ajudar a seguir usuários no Instagram. O bot localiza o botão de seguir na tela e o clica automaticamente, realizando também a rolagem da tela para buscar novos perfis. O objetivo é facilitar o processo de seguir múltiplos usuários sem interação manual constante.
+O **DGzzIN ツ - Instagram Follow Bot** é um script automatizado para ajudar a seguir usuários no Instagram. O bot localiza o botão de seguir na tela e o clica automaticamente, realizando também a rolagem da tela para buscar novos perfis. O objetivo é facilitar o processo de seguir múltiplos usuários sem interação manual constante.
 
 # 🔗 Requisitos e Instalação
 
