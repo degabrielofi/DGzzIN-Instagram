@@ -1,0 +1,7 @@
+pyautogui
+logging
+os
+win32gui
+time
+random
+keyboard
